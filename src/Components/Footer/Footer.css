@@ -1,0 +1,47 @@
+.footermain
+{
+    max-width: 100%;
+    background:rgba(157, 176, 163, 0.5);
+    display: flex;  
+    justify-content: space-between; 
+      
+}
+.footerlogo{
+    padding-top: 3%;
+    padding-left: 2%;
+}
+.footernav,.footerlist{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: black;
+    font-weight: bolder;
+}
+.footernav ul,.footerlist ul{
+    list-style-type: none;
+
+}
+
+.footernav ul li:hover,.footerlist ul li:hover{
+    color:#3B4A3F;
+    cursor: pointer;
+}
+.footercontact{
+    text-align: right;
+    margin: 2%;
+}
+.footeremail{
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 10px;
+
+}
+.footno{
+    font-weight: bold; 
+}
+
+.footerIcon{
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+ 
+}

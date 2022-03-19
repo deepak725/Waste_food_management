@@ -1,0 +1,38 @@
+.wrapper {
+  background: rgba(59, 74, 63, 0.5);
+  max-width: 100%;
+  margin: 2%;
+}
+.boldtext {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #3b4a3f;
+  padding-top: 5%;
+}
+.smalltext {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+
+  color: #3b4a3f;
+}
+.button1 {
+  height: 40px;
+  left: 517px;
+  right: 500px;
+  top: 1490px;
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  background: #3b4a3f;
+  color: #b6c8bc;
+  cursor: pointer;
+}

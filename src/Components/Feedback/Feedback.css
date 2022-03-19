@@ -1,0 +1,53 @@
+.feedback-main {
+  max-width: 100%;
+    padding: 2%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.feedbackdonors {
+  display: flex;
+  background: rgba(59, 74, 63, 0.5);
+  
+  width: 100%;
+}
+.feedbacktext {
+  flex: 1;
+  padding-top: 2%;
+  padding-left: 1%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+
+  color: #3b4a3f;
+}
+.feedbackinfo {
+  flex: 2;
+}
+.feedbackngo{
+    display: flex;
+    background: rgba(157, 176, 163, 0.5);
+    flex-direction: row-reverse;
+    width: 100%;
+
+}
+.feedbackinfo2{
+  display: flex;
+  flex-direction: column;
+  flex:2;
+  /* yha se  */
+ 
+}
+.feedbacktext2 {
+  flex: 1;
+  padding-top: 2%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  color: #3b4a3f;
+
+}

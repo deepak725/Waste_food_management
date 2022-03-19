@@ -1,0 +1,23 @@
+.counter{
+    max-width: 100%;
+    text-align: center;
+    max-height: 50%;
+
+}
+.counter table td,th{ 
+
+    width:25%;
+    padding: 1%;
+    font-family: 'Inter';
+    font-style: normal; 
+    font-weight: 700;    
+    color: #3B4A3F;    
+}
+
+.counter table th{
+    font-size: 30px; 
+}
+.counter table td{
+    padding: 3%;
+    font-size: 40px; 
+}

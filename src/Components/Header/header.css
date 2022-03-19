@@ -1,0 +1,25 @@
+.bg{
+    position: relative;
+    text-align: center;
+}
+.bgimg{
+    width: 100%;
+    max-height: 350px;
+    background: rgba(157, 176, 163, 0.5);
+   
+}
+.bgtext{
+   position:absolute;
+    height: 72px;
+    width:500px;
+    left: 65px;
+    top:20%;
+    right: 686px;  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+    color: #3B4A3F;
+    
+}
